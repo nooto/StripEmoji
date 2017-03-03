@@ -1,0 +1,71 @@
+{
+  "stickers" : [
+    {
+      "filename" : "馋.sticker"
+    },
+    {
+      "filename" : "呆滞.sticker"
+    },
+    {
+      "filename" : "低头沉默.sticker"
+    },
+    {
+      "filename" : "尴尬的笑.sticker"
+    },
+    {
+      "filename" : "好帅.sticker"
+    },
+    {
+      "filename" : "哼.sticker"
+    },
+    {
+      "filename" : "开心.sticker"
+    },
+    {
+      "filename" : "看我斗鸡眼.sticker"
+    },
+    {
+      "filename" : "看着我.sticker"
+    },
+    {
+      "filename" : "目瞪口呆.sticker"
+    },
+    {
+      "filename" : "哦？.sticker"
+    },
+    {
+      "filename" : "睡觉打呼噜.sticker"
+    },
+    {
+      "filename" : "酸.sticker"
+    },
+    {
+      "filename" : "委屈.sticker"
+    },
+    {
+      "filename" : "无题.sticker"
+    },
+    {
+      "filename" : "嘻嘻.sticker"
+    },
+    {
+      "filename" : "想哭.sticker"
+    },
+    {
+      "filename" : "想睡了.sticker"
+    },
+    {
+      "filename" : "眼花.sticker"
+    },
+    {
+      "filename" : "要打架.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
